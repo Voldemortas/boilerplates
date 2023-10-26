@@ -16,25 +16,7 @@ echo '{
   "arrowParens": "always",
   "endOfLine": "crlf"
 }' > .prettierrc;
-echo "module.exports = {
-  preset: 'ts-jest',
-  transform: {
-    '^.+\\.ts$': 'babel-jest',
-  },
-}" > jest.config.cjs;
-echo '{
-    "presets": [
-        [
-            "@babel/preset-env",
-            {
-                "targets": {
-                    "node": "current",
-                },
-            },
-        ],
-        "@babel/preset-typescript",
-    ]
-}' > .babelrc;
 echo 'node_modules
 build
 coverage' > .gitignore;
+git init;
