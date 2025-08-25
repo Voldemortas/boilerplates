@@ -20,8 +20,18 @@
 `curl -s https://raw.githubusercontent.com/Voldemortas/boilerplates/master/react-ts.sh | bash`  
 `wget -O - https://raw.githubusercontent.com/Voldemortas/boilerplates/master/react-ts.sh | bash`
 
-### For Bun static Typescript server
+### ~~For Bun static Typescript server~~ *(deprecated!)*
 
 `curl -s https://raw.githubusercontent.com/Voldemortas/boilerplates/master/bun-modules-ts-static-server.sh | bash`  
 `wget -o https://raw.githubusercontent.com/Voldemortas/boilerplates/master/bun-modules-ts-static-server.sh | bash`  
 visit [Voldemortas/bun-modules-ts-static-server](https://github.com/Voldemortas/bun-modules-ts-static-server) for more info
+
+### Bun server + React
+
+Repo: [Voldemortas/bun-react-server-2](https://github.com//Voldemortas/bun-react-server-2)
+
+```
+git clone https://github.com/Voldemortas/bun-react-server-2 .
+git remote remove origin
+bun install
+```
