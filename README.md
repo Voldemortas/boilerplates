@@ -20,13 +20,20 @@
 `curl -s https://raw.githubusercontent.com/Voldemortas/boilerplates/master/react-ts.sh | bash`  
 `wget -O - https://raw.githubusercontent.com/Voldemortas/boilerplates/master/react-ts.sh | bash`
 
-### ~~For Bun static Typescript server~~ *(deprecated!)*
+### Voldemortas-server (bun and react)
+
+Vist [Voldemortas/voldemortas-server](https://github.com//Voldemortas/voldemortas-server)
+
+`curl -s https://raw.githubusercontent.com/Voldemortas/boilerplates/master/voldemortas-server.sh | bash`  
+`wget -O - https://raw.githubusercontent.com/Voldemortas/boilerplates/master/voldemortas-server.sh | bash`
+
+### ~~For Bun static Typescript server~~ _(deprecated!)_
 
 `curl -s https://raw.githubusercontent.com/Voldemortas/boilerplates/master/bun-modules-ts-static-server.sh | bash`  
 `wget -o https://raw.githubusercontent.com/Voldemortas/boilerplates/master/bun-modules-ts-static-server.sh | bash`  
 visit [Voldemortas/bun-modules-ts-static-server](https://github.com/Voldemortas/bun-modules-ts-static-server) for more info
 
-### Bun server + React
+### ~~Bun server + React~~ _(deprecated!)_
 
 Repo: [Voldemortas/bun-react-server-2](https://github.com//Voldemortas/bun-react-server-2)
 
