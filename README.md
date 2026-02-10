@@ -5,6 +5,11 @@
 - move to the folder you want to install things
 - run either command:
 
+### For deno
+
+`curl -s https://raw.githubusercontent.com/Voldemortas/boilerplates/master/deno.sh | bash`  
+`wget -O - https://raw.githubusercontent.com/Voldemortas/boilerplates/master/deno.sh | bash`
+
 ### For bun
 
 `curl -s https://raw.githubusercontent.com/Voldemortas/boilerplates/master/bun.sh | bash`  
@@ -22,10 +27,9 @@
 
 ### Voldemortas-server (bun and react)
 
-Vist [Voldemortas/voldemortas-server](https://github.com//Voldemortas/voldemortas-server)
+Vist [Voldemortas/server](https://github.com/Voldemortas/server) for more information.
 
-`curl -s https://raw.githubusercontent.com/Voldemortas/boilerplates/master/voldemortas-server.sh | bash`  
-`wget -O - https://raw.githubusercontent.com/Voldemortas/boilerplates/master/voldemortas-server.sh | bash`
+` git clone https://github.com/Voldemortas/server-template .; git remote remove origin; bun install`
 
 ### ~~For Bun static Typescript server~~ _(deprecated!)_
 
